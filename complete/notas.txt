@@ -1,0 +1,4 @@
+en windows para funcionar con mysql instalar esta libreria:
+
+pip install mysqlclient
+
